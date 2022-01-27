@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Babb Getachew
 - 👀 I’m currently a sophmore computer science student interested in full-stack development 
 - 🌱 I’m currently learning web development, C++, as well as relearning mathematics
-- 💼 Would be interested in collaborating on projects involving browser extensions
+- 💼 Would be interested in collaborating on projects involving web development or C++ 
 - ✝ In my free time you can find me working out, spending time with my siblings, or playing piano.
 - 📫 You can reach me at my School Email: abb.getachew@howardcc.edu or Personal Email: babbgetachew@gmail.com
 
