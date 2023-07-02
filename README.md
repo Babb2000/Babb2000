@@ -1,29 +1,38 @@
-# Hi, my name is Babb :wave:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=babb2000&label=Profile%20views&color=0e75b6&style=flat" alt="babb2000" /> </p>
+<h1 align="center">Hi 👋, I'm Babb</h1>
+<h3 align="center">I am a 22 year old computer science student at my local community college. I have a new found passion for everything pertaining web development!</h3>
+
+<br/>
+<br/>
+<br/>
 
 <img src="Images/MainImageGithub.jpg" width="588" height="588">
 
+</br>
+</br>
 
 
+- 💻 I’m currently working on a [Tic-Tac-Toe Game](https://github.com/Babb2000/Tic-Tac_Toe.git)
 
-## About Me
+- 🌱 I’m currently learning **Javascript, Html, and CSS**
 
-* :pencil2: I am currently a 22 year old computer science student at my local community college
-* :computer: New found passion for everything pertaining Web Development
-* :calendar: Going through the Odin Projects open source cirriculum, while documenting my journey via Youtube
-* :running: When not coding you can find me with my family, working out, or playing piano
+- 👯 I’m documenting my Web Dev on YT [BabbCodes](https://www.youtube.com/@babbgetachew7623)
 
+- 👨‍💻 All of my projects are available at [https://github.com/Babb2000](https://github.com/Babb2000)
 
+- 📫 How to reach me **abb.getachew@howardcc.edu**
 
-## Languages and Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/babb2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="babb2000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/babbgetachew7623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="babbgetachew7623" height="30" width="40" /></a>
+</p>
 
+</br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-
-
-
-
-
-## Contact Me
-
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>YouTube</title><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babb2000&" alt="babb2000" /></p>
 
