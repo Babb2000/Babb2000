@@ -1,12 +1,12 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=babb2000&label=Profile%20views&color=0e75b6&style=flat" alt="babb2000" /> </p>
-<h1 align="center">Hi 👋, I'm Babb</h1>
-<h3 align="center">I am a 22 year old computer science student at my local community college. I have a new found passion for everything pertaining web development!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babb2000&label=Profile%20views&color=0e75b6&style=flat" alt="babb2000" /> </p>
+<h1 align="left">Hi 👋, I'm Babb</h1>
+<h3 align="left">I am a 22 year old computer science student at my local community college. I have a new found passion for everything pertaining web development!</h3>
 
 <br/>
 <br/>
 <br/>
 
-<img align="center" src="Images/MainImageGithub.jpg" width="588" height="588">
+<img src="Images/MainImageGithub.jpg" width="588" height="588">
 
 </br>
 </br>
