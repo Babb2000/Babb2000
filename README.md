@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img src="Images/MainImageGithub.jpg" width="588" height="588">
+<img align="center" src="Images/MainImageGithub.jpg" width="588" height="588">
 
 </br>
 </br>
