@@ -14,7 +14,7 @@
 
 - 💻 I’m currently working on a [Tic-Tac-Toe Game](https://github.com/Babb2000/Tic-Tac_Toe.git)
 
-- 🌱 I’m currently learning **Javascript, Html, and CSS**
+- 🌱 I’m currently learning **Webpack**
 
 - 👯 I’m documenting my Web Dev on YT [BabbCodes](https://www.youtube.com/@babbgetachew7623)
 
