@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Webpack**
 
-- 👯 I’m documenting my Web Dev on YT [BabbCodes](https://www.youtube.com/@babbgetachew7623)
+- 👯 I’m documenting my Web Dev on YT [BabbCodes]([https://www.youtube.com/@babbgetachew7623](https://www.youtube.com/@babbcodes/videos))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Babb2000](https://github.com/Babb2000)
 
