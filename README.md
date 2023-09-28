@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babb2000&label=Profile%20views&color=0e75b6&style=flat" alt="babb2000" /> </p>
 <h1 align="left">Hi 👋, I'm Babb</h1>
-<h3 align="left">I am a 22 year old computer science student at my local community college. I have a new found passion for everything pertaining web development!</h3>
+<h3 align="left">I am a 22-year-old computer science student at my local community college. I have a newfound passion for everything pertaining to web development!</h3>
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Webpack**
 
-- 👯 I’m documenting my Web Dev on YT [BabbCodes](https://www.youtube.com/@babbcodes/videos))
+- 👯 I’m documenting my Web Dev on YT [BabbCodes](https://www.youtube.com/@babbcodes/videos)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Babb2000](https://github.com/Babb2000)
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/babb2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="babb2000" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/babbgetachew7623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="babbgetachew7623" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@babbcodes/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="babbgetachew7623" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
