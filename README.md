@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babb2000&label=Profile%20views&color=0e75b6&style=flat" alt="babb2000" /> </p>
 <h1 align="left">Hi 👋, I'm Babb</h1>
-<h3 align="left">I am a 23-year-old computer science student at my local community college. I have a newfound passion for everything pertaining to web development!</h3>
+<h3 align="left"></h3>
 
 <br/>
 <br/>
@@ -11,12 +11,9 @@
 </br>
 </br>
 
-- :movie_camera: Check me out on [Youtube](https://www.youtube.com/channel/UCHUNKLC0mVecUpHkFItjhxw) 
-- 💻 I’m currently working on a [Restaurant Page](https://github.com/Babb2000/Restaurant-Page)
-
 - 🌱 I’m currently learning **Webpack**
 
-- 📫 How to reach me **abb.getachew@howardcc.edu**
+- 📫 How to reach me **babbgetachew@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
