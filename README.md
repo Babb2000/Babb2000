@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babb2000&label=Profile%20views&color=0e75b6&style=flat" alt="babb2000" /> </p>
-<h1 align="left">Hi 👋, I'm Babb</h1>
+<h1 align="left"></h1>
 <h3 align="left"></h3>
 
 <br/>
