@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Webpack**
 
-- 📫 How to reach me **babbgetachew@gmail.com**
+- 📫 How to reach me **abb.getachew@howardcc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
